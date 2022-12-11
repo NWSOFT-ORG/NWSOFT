@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eef22a41.css",
+    "main.js": "/static/js/main.6e33ceab.js",
+    "static/js/787.4ba1d315.chunk.js": "/static/js/787.4ba1d315.chunk.js",
+    "static/media/JetBrainsMono-Bold.woff2": "/static/media/JetBrainsMono-Bold.aab15405816f8891ae6f.woff2",
+    "static/media/JetBrainsMono-SemiBold.woff2": "/static/media/JetBrainsMono-SemiBold.b5b0addff573d47465cd.woff2",
+    "static/media/JetBrainsMono-Medium.woff2": "/static/media/JetBrainsMono-Medium.c3cffe4a89516250a539.woff2",
+    "static/media/JetBrainsMono-Light.woff2": "/static/media/JetBrainsMono-Light.73eb51522794b39f1f1c.woff2",
+    "static/media/JetBrainsMono-ExtraBold.woff2": "/static/media/JetBrainsMono-ExtraBold.8c21409ef94a9093f8eb.woff2",
+    "static/media/JetBrainsMono-ExtraLight.woff2": "/static/media/JetBrainsMono-ExtraLight.e6b4022eef9e31307814.woff2",
+    "static/media/JetBrainsMono-Regular.woff2": "/static/media/JetBrainsMono-Regular.1e66c47aca088de94ae7.woff2",
+    "static/media/JetBrainsMono-Thin.woff2": "/static/media/JetBrainsMono-Thin.70fdf0cdbe6466f7139a.woff2",
+    "index.html": "/index.html",
+    "main.eef22a41.css.map": "/static/css/main.eef22a41.css.map",
+    "main.6e33ceab.js.map": "/static/js/main.6e33ceab.js.map",
+    "787.4ba1d315.chunk.js.map": "/static/js/787.4ba1d315.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eef22a41.css",
+    "static/js/main.6e33ceab.js"
+  ]
+}
