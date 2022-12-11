@@ -1,0 +1,27 @@
+@import "src/fonts/loadFonts"
+
+.type
+  display: inline-block
+  font-weight: $Medium
+
+
+.type::after
+  content: '_'
+  font-weight: $ExtraBold
+  animation: cursor 0.5s 3
+  animation-fill-mode: forwards
+
+@keyframes cursor
+  0%
+    opacity: 1
+
+  50%
+    opacity: 0
+
+  99%
+    opacity: 1
+
+  100%
+    opacity: 0
+    display: none
+
