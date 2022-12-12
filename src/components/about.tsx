@@ -13,8 +13,8 @@ export class About extends React.Component<any, any> {
             <p>You can contact us by dropping a message to <a href={"mailto:info@nwsoft.tk"}>our mailbox</a>.</p>
 
             <h2>About this website</h2>
-            <p>This website is built with React and TypeScript, and is hosted on <a href={"https://pages.github.com"}>GitHub
-                Pages</a>.</p>
+            <p>This website is built with React and TypeScript, and is hosted on <a
+                href={"https://vercel.com"}>Vercel</a>.</p>
             <p>Font used: <a href={"https://jetbrains.com/mono"}>Jetbrains Mono</a></p>
             <p>Source code is available on <a href={"https://github.com/NWSOFT-ORG/nwsoft"}>GitHub</a>.</p>
         </>;
