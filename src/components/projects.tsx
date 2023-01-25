@@ -20,9 +20,7 @@ export class Projects extends React.Component<any, any> {
                 });
             }
         };
-        xmlHttp.open("GET", "https://bnm0fq-8000.preview.csb.app/https://pst.klgrth.io/paste/yoxxk/download", true); // true for asynchronous
-        xmlHttp.setRequestHeader("Access-Control-Allow-Origin", "https://pst.klgrth.io");
-        xmlHttp.setRequestHeader("Vary", "Origin");
+        xmlHttp.open("GET", "https://api.codetabs.com/v1/proxy?quest=https://data.nwsoft.tk/nwsoft", true); // true for asynchronous
         xmlHttp.send(null);
     }
 
